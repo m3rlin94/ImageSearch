@@ -14,8 +14,8 @@ import java.net.URLEncoder;
  */
 
 public class SearchImages {
-    private static final String API_KEY = "AIzaSyCtg0Q5hdNxe8RsMXySQtyeB-Qsx3NhEGA";
-    private static final String CX_KEY = "AIzaSyAy3oBNPFCq3GlokLDsigw8kCM1FE0an5w";
+    private static final String API_KEY = "AIzaSyC9qyat9G0tlHrmg8s_dAfT1q4irjIZTlE";
+    private static final String CX_KEY = "018166152475396321462:neztg-w1huk";
     private AsyncHttpClient searchClient;
 
     public SearchImages() {
