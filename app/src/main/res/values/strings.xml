@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iFinder</string>
+    <string name="searchBtn"></string>
+    <string name="search_not_found">Search Not Found!</string>
+    <string name="invalid_data">Invalid data received!</string>
+    <string name="service_unavailable">Service unavailable!</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="invalid_string">Please enter a valid string</string>
+    <string name="display_msg">Search results for</string>
+    <string name="hint">Enter the image name...</string>
+</resources>
